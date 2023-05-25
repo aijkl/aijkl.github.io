@@ -25,7 +25,7 @@ tagline: C#エンジニア # it will display as the sub-title
 description: おれんじみかんのサイトです、C#エンジニア
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://static.orange-mikan.org"
+url: "https://blog.orange-mikan.org"
 
 github:
   username: aijkl # change to your github username
