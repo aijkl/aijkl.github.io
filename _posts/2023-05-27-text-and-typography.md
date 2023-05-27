@@ -1,8 +1,8 @@
 ---
 title: Boothの通知サーバーを作った話
-author: cotes
+author: mikan
 date: 2023-05-27 11:33:00 +0800
-categories: [Blogging, Demo]
+categories: [Blogging]
 tags: [booth, notification, vrchat]
 pin: true
 math: true
