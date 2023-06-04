@@ -1,7 +1,7 @@
 ---
 title: Boothの通知サーバーを作った話
 date: 2023-05-27 11:33:00 +0800
-categories: [Blogging, Demo]
+categories: [technology]
 tags: [booth, notification, vrchat]
 pin: true
 math: true
